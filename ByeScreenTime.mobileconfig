@@ -8,7 +8,7 @@
 		<string>REQUIRES supervised mode in order for this profile to work.</string>
 	</dict>
 	<key>DurationUntilRemoval</key>
-<integer>20</integer>
+<integer>0</integer>
 	<key>PayloadContent</key>
 	<array>
 		<dict>
