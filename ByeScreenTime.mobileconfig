@@ -231,7 +231,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Profile will auto remove after 20 seconds. This profile disables ScreenTime on iOS 12-14 (15 untested) on supervised devices.</string>
+	<string>This profile disables ScreenTime on iOS 12-14 (15 untested) on supervised devices.</string>
 	<key>PayloadDisplayName</key>
 	<string>ByeScreenTimeiOS</string>
 	<key>PayloadIdentifier</key>
